@@ -1,4 +1,33 @@
+# Deployment link(vercel)= https://gardenfinance-mu.vercel.app/
+
 # Demo App
+
+# A Journey Through Multichain Development
+Embarking on this project was like diving into an ocean of knowledge and excitement. Each step unfolded new learnings and challenges, making the process as adventurous as it was educational.
+
+# Discovering Merry
+Installing and running Merry was our first big leap. With a simple bash command, Merry set up a multichain environment that felt like having a mini blockchain universe at our fingertips. Running merry go was exhilarating, knowing we were about to create something powerful.
+
+# Setting Up the Swap Interface
+Creating the swap interface was a blend of creativity and technicality. Watching the interface come to life, where users could seamlessly swap WBTC for BTC, was immensely satisfying. It wasn't just about coding; it was about crafting a tool that simplifies complex transactions.
+
+# Managing Transactions
+Tracking and displaying the latest transactions turned out to be a deep dive into the nuances of transaction management. It was fascinating to see how each transaction flowed through the system, teaching us the importance of efficient state management.
+
+# Integrating Garden SDK
+The integration of the Garden SDK was the heart of this project. Each function call, each parameter, and each successful swap felt like piecing together an intricate puzzle. It was a testament to how powerful and flexible the Garden SDK is, and how it can transform a simple idea into a functional dApp.
+
+# State Management with Zustand
+Zustand's state management capabilities were the cherry on top. It simplified our code and made the state management intuitive. Learning and implementing Zustand was a delightful experience, adding another tool to our developer toolkit.
+<hr><hr><hr>
+
+**By the end of this project, we didn't just create a dApp; we expanded our horizons, learned new technologies, and enjoyed the thrill of development. This wasn't just a project—it was an adventure, a learning journey that left us enriched and eager for more.**
+
+
+
+<br><br><br><br><br><br><br>
+# Given data (avoid reading that)...
+
 
 This project demonstrates how to use the [Garden SDK](https://docs.garden.finance/developers/sdk/) to create a simple dApp for swapping from WBTC to BTC.
 
